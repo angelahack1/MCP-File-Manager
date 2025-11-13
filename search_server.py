@@ -3,7 +3,6 @@ import fnmatch
 from concurrent import futures
 import time
 import logging
-
 import grpc
 import filesearch_pb2
 import filesearch_pb2_grpc
